@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21
+END
+MainWindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/MainWindow.ui
+END
+MatToQImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/MatToQImage.cpp
+END
+ProcessingThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/ProcessingThread.h
+END
+Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/Config.h
+END
+ImageProcessingSettingsDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/ImageProcessingSettingsDialog.ui
+END
+ImageBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/ImageBuffer.cpp
+END
+MainWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/MainWindow.cpp
+END
+CameraConnectDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/CameraConnectDialog.ui
+END
+MatToQImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/MatToQImage.h
+END
+ImageProcessingSettingsDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/ImageProcessingSettingsDialog.cpp
+END
+MainWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/MainWindow.h
+END
+ImageBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/ImageBuffer.h
+END
+CameraConnectDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/CameraConnectDialog.cpp
+END
+qt-opencv-multithreaded.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/qt-opencv-multithreaded.pro
+END
+Controller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/Controller.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/main.cpp
+END
+ImageProcessingSettingsDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/ImageProcessingSettingsDialog.h
+END
+CameraConnectDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/CameraConnectDialog.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/COPYING
+END
+Controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/Controller.h
+END
+Structures.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/Structures.h
+END
+FrameLabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/FrameLabel.cpp
+END
+CaptureThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/CaptureThread.cpp
+END
+FrameLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/FrameLabel.h
+END
+CaptureThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/CaptureThread.h
+END
+ProcessingThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/88/tags/qt-opencv-multithreaded-1.21/ProcessingThread.cpp
+END
